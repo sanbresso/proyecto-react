@@ -1,10 +1,13 @@
 import ProductCard from "../../common/productCard/ProductCard";
 import "./ItemListContainer.css";
 
-const ItemListContainer = () => {
+const ItemListContainer = (props) => {
   return (
     <div>
-      <h1>Bienvenidos a Nails By BREIK</h1>
+      <div>
+        <h1>{props.greeting}</h1>
+      </div>
+      <h1>Bienvenidos a BREIK Nail studio</h1>
 
       <div className="navbarCard">
         <ProductCard

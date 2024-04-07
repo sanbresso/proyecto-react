@@ -4,7 +4,7 @@ const Navbar = () => {
   return (
     <div>
       <img
-        src="https://res.cloudinary.com/dwj4jcs0g/image/upload/c_crop,w_600,h_338,ar_16:9/v1711664542/logo-nailsbybreik_lxjr8h.png"
+        src="https://res.cloudinary.com/dwj4jcs0g/image/upload/v1712504501/Black_White_Modern_Handwritten_Square_Studio_Logo_ak3wmo.png"
         alt=""
       />
       <ul>
